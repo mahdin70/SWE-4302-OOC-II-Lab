@@ -1,7 +1,7 @@
 package SRP_2;
 import java.util.Map;
 
-public class AccountOperation {
+public class AccountOperation{
     public static Map<String, Account> accounts;
 
     public void addAccount(String ID, Account account){

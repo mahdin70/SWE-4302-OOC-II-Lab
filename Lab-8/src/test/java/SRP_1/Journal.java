@@ -1,5 +1,4 @@
 package SRP_1;
-import java.util.ArrayList;
 import java.util.List;
 
 public class Journal {
