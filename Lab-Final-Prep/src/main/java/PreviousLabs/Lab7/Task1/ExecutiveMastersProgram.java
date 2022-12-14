@@ -1,0 +1,17 @@
+package PreviousLabs.Lab7.Task1;
+
+public class ExecutiveMastersProgram implements IMastersProgram{
+    private final String major;
+    public ExecutiveMastersProgram(String major) {
+        this.major = major;
+    }
+    @Override
+    public boolean isEligible(float cgpa, String major) {
+        return (this.major.equals(major) || cgpa >= 3.75);
+    }
+
+    @Override
+    public int getMarks(int theoryMarks, int thesisMarks, int presentMarks) {
+        return theoryMarks + presentMarks + thesisMarks;
+    }
+}

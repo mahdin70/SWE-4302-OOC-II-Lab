@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2985c750-2fcb-4dd6-9e0f-da33687cb60d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab-10/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/src/main/java/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/src/main/java/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/src/main/java/DevelopmentHistoryWithReviewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/src/main/java/DevelopmentHistoryWithReviewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/src/main/java/DevelopmmentHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/src/main/java/DevelopmmentHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/src/main/java/Faculty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/src/main/java/Faculty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/src/main/java/LambdaFaculty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/src/main/java/LambdaFaculty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-10/src/test/java/FacultyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-10/src/test/java/FacultyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-11/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-11/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-11/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-11/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-11/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-11/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-11/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-11/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-11/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-11/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-11/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-11/src/main/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-11/src/main/java/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-11/src/main/java/EmployeeDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-11/src/main/java/EmployeeDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-11/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-11/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-3/Task-1(Enum).java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-3/Task-1(Enum).java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-3/Task-1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-3/Task-1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-3/Task-2(Enum).java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-3/Task-2(Enum).java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-3/Task-2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-3/Task-2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-3/Task-3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-3/Task-3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-1-ShamelessGreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-1-ShamelessGreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-1-ShamelessGreenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-1-ShamelessGreenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-Canvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-CanvasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-CanvasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-OCP-Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-OCP-Canvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-OCP-CanvasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-OCP-CanvasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-OCP-DrawCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-OCP-DrawCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-OCP-DrawRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Submission-Files/Task-2-OCP-DrawRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-1/src/test/java/ShamelessGreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-1/src/test/java/ShamelessGreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-1/src/test/java/ShamelessGreenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-1/src/test/java/ShamelessGreenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/src/test/java/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/src/test/java/Canvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/src/test/java/CanvasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/src/test/java/CanvasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/src/test/java/DrawCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/src/test/java/DrawCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/src/test/java/DrawRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2-OCP/src/test/java/DrawRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2/src/test/java/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2/src/test/java/Canvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-4/Task-2/src/test/java/CanvasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-4/Task-2/src/test/java/CanvasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-Buzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-Buzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-Fizz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-Fizz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-FizzBuzz2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-FizzBuzz2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-TestFizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-1-TestFizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-2-MaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-2-MaxStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-2-TestMaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-2-TestMaxStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-Faculty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-Faculty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Submission Files/Task-3-TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/Buzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/Buzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/Fizz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/Fizz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/FizzBuzz2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/FizzBuzz2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/TestFizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-1/src/test/java/TestFizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-2/src/test/java/MaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-2/src/test/java/MaxStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-2/src/test/java/TestMaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-2/src/test/java/TestMaxStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/Faculty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/Faculty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/testCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/Task-3/src/test/java/testCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-1-GenericMaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-1-GenericMaxStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-1-Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-1-Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-1-TestGenericMaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-1-TestGenericMaxStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-2-Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-2-Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-2-CountListInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-2-CountListInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-2-EvenCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-2-EvenCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-3-Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-3-Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-3-TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Submission Files/Task-3-TestEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-1/src/test/java/GenericMaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-1/src/test/java/GenericMaxStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-1/src/test/java/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-1/src/test/java/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-1/src/test/java/testGenericMaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-1/src/test/java/testGenericMaxStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-2/src/test/java/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-2/src/test/java/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-2/src/test/java/EvenCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-2/src/test/java/EvenCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-2/src/test/java/ICountTheList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-2/src/test/java/ICountTheList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-3/src/test/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-3/src/test/java/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-6/Task-3/src/test/java/testEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-6/Task-3/src/test/java/testEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/DegreeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/DegreeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/ExecutiveMasterProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/ExecutiveMasterProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/IMastersProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/IMastersProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/MastersFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/MastersFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/MastersProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/MastersProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/NonRegularThesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/NonRegularThesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/RegularThesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/RegularThesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/TestMasterProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_1/TestMasterProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/ITrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/ITrip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/MOTOR_BIKE.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/MOTOR_BIKE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/SEDAN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/SEDAN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/SEVEN_SEATER.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/SEVEN_SEATER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/Trip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/Trip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/TripFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/TripFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/TripTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/TripTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/VehicleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-7/src/test/java/Task_2/VehicleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/AccountOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/AccountOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/BasicPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/BasicPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/CameraSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/CameraSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/Drone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/EngineSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/EngineSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/IAbstractPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/IAbstractPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/IFaxService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/IFaxService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/IScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/IScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/Journal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/Journal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/JournalDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/JournalDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/MultiFunctionPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/MultiFunctionPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/RadioSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/RadioSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/Submission File/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/Submission File/Transfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/BasicPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/BasicPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/IAbstractPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/IAbstractPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/IFaxService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/IFaxService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/IScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/IScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/MultiFunctionPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_1/MultiFunctionPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/CameraSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/CameraSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/Drone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/EngineSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/EngineSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/RadioSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/ISP_2/RadioSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_1/Journal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_1/Journal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_1/JournalDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_1/JournalDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_2/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_2/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_2/AccountOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_2/AccountOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_2/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/test/java/SRP_2/Transfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/main/java/InvalidStudentIDException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/main/java/InvalidStudentIDException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/main/java/ResultPublication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/main/java/ResultPublication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/main/java/SortByCGPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/main/java/SortByCGPA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/main/java/SortByCGPAandID.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/main/java/SortByCGPAandID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/main/java/SortByID.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/main/java/SortByID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/main/java/SortByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/main/java/SortByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/main/java/StudentEnrollment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/main/java/StudentEnrollment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/test/java/ResultPublicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/test/java/ResultPublicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-9/src/test/java/StudentEnrollmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-9/src/test/java/StudentEnrollmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOC-Assignment/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../OOC-Assignment/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOC-Assignment/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOC-Assignment/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOC-Assignment/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOC-Assignment/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOC-Assignment/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOC-Assignment/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOC-Assignment/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOC-Assignment/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOC-Assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOC-Assignment/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOC-Assignment/src/main/java/Assignment2/Independence/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOC-Assignment/src/main/java/Assignment2/Independence/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOC-Assignment/src/main/java/Assignment2/Independence/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOC-Assignment/src/main/java/Assignment2/Independence/Engine.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HuDBmP1gKo0iaGcgegPpEmgiFD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2985c750-2fcb-4dd6-9e0f-da33687cb60d" name="Changes" comment="" />
+      <created>1669125941363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669125941363</updated>
+    </task>
+    <servers />
+  </component>
+</project>
